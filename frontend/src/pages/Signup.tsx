@@ -63,7 +63,7 @@ export default function Signup() {
                         <button onClick={signup} className="w-full rounded-md m-2 py-2 bg-[#0a1236] text-white">Sign Up</button>
                     </div>
                     <div className="text-[#1c1463] flex items-center m-2 underline">
-                        <a href="/signin">Already have an Account? Signin</a>
+                        <a onClick={()=>navigate('/signin')}>Already have an Account? Signin</a>
                     </div>
                 </div>
             </div>
