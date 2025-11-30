@@ -1,5 +1,8 @@
 📘 Product Catalogue Application – Frontend Assignment
 
+Project Demo:
+https://youtu.be/sYfP6Bo2UQ4
+
 This project is a React.js-based Product Catalogue Application, built as part of a frontend development assignment. The goal of this project is to implement a clean login flow, dynamic data rendering, category navigation, pagination, and performance optimizations when handling large datasets.
 
 
